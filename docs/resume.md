@@ -9,6 +9,7 @@
 
 ##Portfolio
 http://vawebdesign.be/portfolioVincent/
+
 https://vimeo.com/111920372
 
 ##Werkervaring
@@ -17,13 +18,18 @@ Ervaring uit de vrije tijd
 
 ##Kennis webtechnologieën
 -- HTML 5--
+
 -- CSS --
+
 -- PHP --
+
 -- JAVASCRIPT -- 
 
 ##Softwarekennis
 -- Adobde --
+
 -- Office pakket -- 
+
 -- Blender --
 
 
