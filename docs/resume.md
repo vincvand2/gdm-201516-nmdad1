@@ -14,6 +14,7 @@ https://vimeo.com/111920372
 
 ##Werkervaring
 Schoolervaring
+
 Ervaring uit de vrije tijd
 
 ##Kennis webtechnologieën
